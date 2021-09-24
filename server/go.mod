@@ -39,10 +39,10 @@ require (
 	go.uber.org/zap v1.17.0
 renovate/golang.org-x-net-digest
 	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
-	golang.org/x/net v0.0.0-20210917221730-978cfadd31cf
+	golang.org/x/net 3ad01bbaa167
 =======
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
-	golang.org/x/net v0.0.0-20210525063256-abc453219eb5
+	golang.org/x/net 3ad01bbaa167
 main
 	golang.org/x/time v0.0.0-20210220033141-f8bda1e9f3ba
 	google.golang.org/genproto v0.0.0-20210602131652-f16073e35f0c
