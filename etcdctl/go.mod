@@ -15,7 +15,7 @@ require (
 	go.etcd.io/etcd/client/v3 v3.5.0
 	go.etcd.io/etcd/etcdutl/v3 v3.5.0
 	go.etcd.io/etcd/pkg/v3 v3.5.0
-	go.uber.org/zap v1.17.0
+	go.uber.org/zap v1.19.1
 	golang.org/x/time 1f47c861a9ac
 	google.golang.org/grpc v1.38.0
 	gopkg.in/cheggaaa/pb.v1 v1.0.29
