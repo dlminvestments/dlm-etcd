@@ -44,7 +44,7 @@ renovate/golang.org-x-net-digest
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
 	golang.org/x/net 3ad01bbaa167
 main
-	golang.org/x/time v0.0.0-20210220033141-f8bda1e9f3ba
+	golang.org/x/time 1f47c861a9ac
 	google.golang.org/genproto v0.0.0-20210602131652-f16073e35f0c
 	google.golang.org/grpc v1.38.0
 	google.golang.org/protobuf v1.26.0
