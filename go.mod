@@ -33,5 +33,5 @@ require (
 	go.uber.org/zap v1.17.0
 	golang.org/x/time 1f47c861a9ac
 	google.golang.org/grpc v1.38.0
-	gopkg.in/cheggaaa/pb.v1 v1.0.28
+	gopkg.in/cheggaaa/pb.v1 v1.0.29
 )
