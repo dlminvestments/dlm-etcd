@@ -24,6 +24,6 @@ require (
 	gopkg.in/yaml.v2 v2.3.0 // indirect
 	gotest.tools v2.2.0+incompatible
 	gotest.tools/gotestsum v0.3.5
-	honnef.co/go/tools v0.0.0-20190523083050-ea95bdfd59fc
+	honnef.co/go/tools v0.2.1
 	mvdan.cc/unparam v0.0.0-20210922095519-ff2d845894dd
 )
