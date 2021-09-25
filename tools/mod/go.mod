@@ -11,7 +11,7 @@ require (
 	github.com/go-openapi/spec v0.19.9 // indirect
 	github.com/goccy/go-yaml v1.8.9 // indirect
 	github.com/gogo/protobuf v1.3.2
-	github.com/google/addlicense v0.0.0-20210428195630-6d92264d7170
+	github.com/google/addlicense v1.0.0
 	github.com/gordonklaus/ineffassign v0.0.0-20210914165742-4cc7213b9bc8
 	github.com/grpc-ecosystem/grpc-gateway v1.14.6
 	github.com/gyuho/gocovmerge v0.0.0-20171205171859-50c7e6afd535
