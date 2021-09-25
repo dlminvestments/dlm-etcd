@@ -47,7 +47,7 @@ main
 	golang.org/x/time 1f47c861a9ac
 	google.golang.org/genproto 3dee208752a0
 	google.golang.org/grpc v1.38.0
-	google.golang.org/protobuf v1.26.0
+	google.golang.org/protobuf v1.27.1
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 	sigs.k8s.io/yaml v1.2.0
 )
