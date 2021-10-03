@@ -27,5 +27,5 @@ require (
 	gotest.tools v2.2.0+incompatible
 	gotest.tools/gotestsum v1.7.0
 	honnef.co/go/tools v0.2.1
-	mvdan.cc/unparam v0.0.0-20210922095519-ff2d845894dd
+	mvdan.cc/unparam v0.0.0-20211002134041-24922b6997ca
 )
