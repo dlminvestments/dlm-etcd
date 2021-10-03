@@ -10,7 +10,7 @@ require (
 	go.etcd.io/etcd/client/pkg/v3 v3.5.0
 	go.uber.org/zap v1.19.1
 	google.golang.org/grpc v1.41.0
-	sigs.k8s.io/yaml v1.2.0
+	sigs.k8s.io/yaml v1.3.0
 )
 
 replace (
