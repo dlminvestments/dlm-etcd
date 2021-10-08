@@ -6,5 +6,5 @@ require (
 	github.com/coreos/go-systemd/v22 v22.3.2
 	github.com/stretchr/testify v1.7.0
 	go.uber.org/zap v1.19.1
-	golang.org/x/sys v0.0.0-20211002104244-808efd93c36d
+	golang.org/x/sys v0.0.0-20211007075335-d3039528d8ac
 )
