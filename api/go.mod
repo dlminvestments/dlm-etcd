@@ -8,7 +8,7 @@ require (
 	github.com/golang/protobuf v1.5.2
 	github.com/google/go-cmp v0.5.6 // indirect
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
-	google.golang.org/genproto v0.0.0-20211008145708-270636b82663
+	google.golang.org/genproto v0.0.0-20211013025323-ce878158c4d4
 	google.golang.org/grpc v1.41.0
 )
 
