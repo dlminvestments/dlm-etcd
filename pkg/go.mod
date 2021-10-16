@@ -3,7 +3,7 @@ module go.etcd.io/etcd/pkg/v3
 go 1.16
 
 require (
-	github.com/creack/pty v1.1.16
+	github.com/creack/pty v1.1.17
 	github.com/dustin/go-humanize v1.0.0
 	github.com/golang/protobuf v1.5.1 // indirect
 	github.com/spf13/cobra v1.2.1
