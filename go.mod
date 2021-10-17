@@ -28,7 +28,7 @@ require (
 	go.etcd.io/etcd/etcdutl/v3 v3.5.0
 	go.etcd.io/etcd/pkg/v3 v3.5.1
 	go.etcd.io/etcd/raft/v3 v3.5.1
-	go.etcd.io/etcd/server/v3 v3.5.0
+	go.etcd.io/etcd/server/v3 v3.5.1
 	go.etcd.io/etcd/tests/v3 v3.5.1
 	go.uber.org/zap v1.19.1
 	golang.org/x/time 1f47c861a9ac
