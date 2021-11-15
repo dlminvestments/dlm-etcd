@@ -38,10 +38,10 @@ require (
 	go.uber.org/multierr v1.7.0
 	go.uber.org/zap v1.19.1
 renovate/golang.org-x-net-digest
-	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
+	golang.org/x/crypto ceb1ce70b4fa
 	golang.org/x/net 3ad01bbaa167
 =======
-	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/crypto ceb1ce70b4fa
 	golang.org/x/net 3ad01bbaa167
 main
 	golang.org/x/time 1f47c861a9ac
