@@ -17,7 +17,7 @@ require (
 	github.com/gordonklaus/ineffassign v0.0.0-20210914165742-4cc7213b9bc8
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
 	github.com/gyuho/gocovmerge v0.0.0-20171205171859-50c7e6afd535
-	github.com/hexfusion/schwag v0.0.0-20210811140253-7cfcc7b2b40d
+	github.com/hexfusion/schwag v0.0.0-20211117114134-3ceb0191ccbf
 	github.com/mdempsky/unconvert v0.0.0-20200228143138-95ecdbfc0b5f
 	github.com/mgechev/revive v1.1.2
 	github.com/mikefarah/yq/v3 v3.0.0-20201202084205-8846255d1c37
