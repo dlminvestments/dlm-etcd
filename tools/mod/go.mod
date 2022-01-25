@@ -19,7 +19,7 @@ require (
 	github.com/gyuho/gocovmerge v0.0.0-20171205171859-50c7e6afd535
 	github.com/hexfusion/schwag v0.0.0-20211117114134-3ceb0191ccbf
 	github.com/mdempsky/unconvert v0.0.0-20200228143138-95ecdbfc0b5f
-	github.com/mgechev/revive v1.1.2
+	github.com/mgechev/revive v1.1.3
 	github.com/mikefarah/yq/v3 v3.0.0-20201202084205-8846255d1c37
 	github.com/spf13/cobra v1.1.3 // indirect
 	github.com/trustmaster/go-aspell v0.0.0-20200701131845-c2b1f55bec8f // indirect
