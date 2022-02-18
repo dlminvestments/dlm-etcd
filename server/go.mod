@@ -7,7 +7,7 @@ require (
 	github.com/coreos/go-systemd/v22 v22.3.2
 	github.com/dustin/go-humanize v1.0.0
 	github.com/gogo/protobuf v1.3.2
-	github.com/golang-jwt/jwt/v4 v4.2.0
+	github.com/golang-jwt/jwt/v4 v4.3.0
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
 	github.com/golang/protobuf v1.5.2
 	github.com/google/btree v1.0.1
@@ -31,12 +31,12 @@ require (
 	go.etcd.io/etcd/client/v3 v3.5.2
 	go.etcd.io/etcd/pkg/v3 v3.5.2
 	go.etcd.io/etcd/raft/v3 v3.5.2
-	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.28.0
-	go.opentelemetry.io/otel v1.3.0
+	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.29.0
+	go.opentelemetry.io/otel v1.4.1
 	go.opentelemetry.io/otel/exporters/otlp v0.20.0
-	go.opentelemetry.io/otel/sdk v1.3.0
+	go.opentelemetry.io/otel/sdk v1.4.1
 	go.uber.org/multierr v1.7.0
-	go.uber.org/zap v1.20.0
+	go.uber.org/zap v1.21.0
 renovate/golang.org-x-net-digest
 	golang.org/x/crypto ceb1ce70b4fa
 	golang.org/x/net 3ad01bbaa167

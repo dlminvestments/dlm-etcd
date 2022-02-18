@@ -26,8 +26,13 @@ require (
 	github.com/gyuho/gocovmerge v0.0.0-20171205171859-50c7e6afd535
 	github.com/hexfusion/schwag v0.0.0-20211117114134-3ceb0191ccbf
 	github.com/mdempsky/unconvert v0.0.0-20200228143138-95ecdbfc0b5f
+renovate/github.com-mgechev-revive-1.x
 	github.com/mgechev/revive v1.1.4
 	github.com/mikefarah/yq/v4 v4.19.1
+=======
+	github.com/mgechev/revive v1.1.3
+	github.com/mikefarah/yq/v4 v4.20.1
+main
 	github.com/prometheus/tsdb v0.7.1 // indirect
 	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
 	github.com/smartystreets/goconvey v1.6.4 // indirect
