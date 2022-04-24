@@ -25,11 +25,11 @@ require (
 	go.etcd.io/etcd/client/v3 v3.5.3
 	go.etcd.io/etcd/client/v3 v3.5.3
 renovate/go.etcd.io-etcd-etcdutl-v3-3.x
-	go.etcd.io/etcd/etcdctl/v3 v3.5.1
+	go.etcd.io/etcd/etcdctl/v3 v3.5.4
 	go.etcd.io/etcd/etcdutl/v3 v3.5.3
 	go.etcd.io/etcd/pkg/v3 v3.5.1
 =======
-	go.etcd.io/etcd/etcdctl/v3 v3.5.2
+	go.etcd.io/etcd/etcdctl/v3 v3.5.4
 	go.etcd.io/etcd/etcdutl/v3 v3.5.3
 	go.etcd.io/etcd/pkg/v3 v3.5.2
 main
