@@ -25,7 +25,7 @@ require (
 	github.com/tmc/grpc-websocket-proxy 673ab2c3ae75
 	github.com/xiang90/probing v0.0.0-20190116061207-43a291ad63a2
 	go.etcd.io/bbolt v1.3.6
-	go.etcd.io/etcd/api/v3 v3.5.3
+	go.etcd.io/etcd/api/v3 v3.5.4
 	go.etcd.io/etcd/client/pkg/v3 v3.5.4
 	go.etcd.io/etcd/client/v3 v3.5.3
 	go.etcd.io/etcd/client/v3 v3.5.3
