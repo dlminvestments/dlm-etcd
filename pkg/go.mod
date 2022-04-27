@@ -8,7 +8,7 @@ require (
 	github.com/spf13/cobra v1.4.0
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.7.1
-	go.etcd.io/etcd/client/pkg/v3 v3.5.2
+	go.etcd.io/etcd/client/pkg/v3 v3.5.4
 	go.uber.org/zap v1.21.0
 	google.golang.org/grpc v1.45.0
 )
