@@ -28,10 +28,10 @@ require (
 	github.com/mdempsky/unconvert v0.0.0-20200228143138-95ecdbfc0b5f
 renovate/github.com-mgechev-revive-1.x
 	github.com/mgechev/revive v1.2.1
-	github.com/mikefarah/yq/v4 v4.24.5
+	github.com/mikefarah/yq/v4 v4.25.1
 =======
 	github.com/mgechev/revive v1.2.1
-	github.com/mikefarah/yq/v4 v4.24.5
+	github.com/mikefarah/yq/v4 v4.25.1
 main
 	github.com/prometheus/tsdb v0.7.1 // indirect
 	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
