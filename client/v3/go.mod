@@ -9,7 +9,7 @@ require (
 	go.etcd.io/etcd/api/v3 v3.5.4
 	go.etcd.io/etcd/client/pkg/v3 v3.5.4
 	go.uber.org/zap v1.21.0
-	google.golang.org/grpc v1.46.0
+	google.golang.org/grpc v1.46.2
 	sigs.k8s.io/yaml v1.3.0
 )
 
