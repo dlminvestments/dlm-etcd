@@ -23,7 +23,7 @@ main
 	go.uber.org/zap v1.21.0
 	golang.org/x/time 1f47c861a9ac
 	google.golang.org/grpc v1.47.0
-	gopkg.in/cheggaaa/pb.v3 v3.0.8
+	gopkg.in/cheggaaa/pb.v3 v3.1.0
 )
 
 replace (
