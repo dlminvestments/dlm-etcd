@@ -31,10 +31,10 @@ require (
 	go.etcd.io/etcd/client/v3 v3.5.4
 	go.etcd.io/etcd/pkg/v3 v3.5.4
 	go.etcd.io/etcd/raft/v3 v3.5.4
-	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.33.0
-	go.opentelemetry.io/otel v1.8.0
+	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.34.0
+	go.opentelemetry.io/otel v1.9.0
 	go.opentelemetry.io/otel/exporters/otlp v0.20.0
-	go.opentelemetry.io/otel/sdk v1.8.0
+	go.opentelemetry.io/otel/sdk v1.9.0
 	go.uber.org/multierr v1.8.0
 	go.uber.org/zap v1.21.0
 renovate/golang.org-x-net-digest
