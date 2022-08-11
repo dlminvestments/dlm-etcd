@@ -8,7 +8,7 @@ require (
 	github.com/prometheus/client_golang v1.13.0
 	go.etcd.io/etcd/api/v3 v3.5.4
 	go.etcd.io/etcd/client/pkg/v3 v3.5.4
-	go.uber.org/zap v1.21.0
+	go.uber.org/zap v1.22.0
 	google.golang.org/grpc v1.48.0
 	sigs.k8s.io/yaml v1.3.0
 )
