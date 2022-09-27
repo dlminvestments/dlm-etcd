@@ -25,7 +25,7 @@ require (
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
 	github.com/gyuho/gocovmerge v0.0.0-20171205171859-50c7e6afd535
 	github.com/hexfusion/schwag v0.0.0-20211117114134-3ceb0191ccbf
-	github.com/mdempsky/unconvert v0.0.0-20200228143138-95ecdbfc0b5f
+	github.com/mdempsky/unconvert 3f84926d6923
 renovate/github.com-mgechev-revive-1.x
 	github.com/mgechev/revive v1.2.3
 	github.com/mikefarah/yq/v4 v4.27.5
