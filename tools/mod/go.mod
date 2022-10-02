@@ -18,7 +18,7 @@ require (
 	github.com/golang/glog v1.0.0 // indirect
 	github.com/google/addlicense v1.0.0
 	github.com/google/go-cmp v0.5.6 // indirect
-	github.com/gordonklaus/ineffassign v0.0.0-20210914165742-4cc7213b9bc8
+	github.com/gordonklaus/ineffassign d2c82e48359b
 	github.com/gorilla/websocket v1.4.2 // indirect
 	github.com/grpc-ecosystem/go-grpc-middleware v1.0.0 // indirect
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0 // indirect
