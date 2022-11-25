@@ -23,7 +23,7 @@ require (
 	github.com/spf13/cobra v1.6.1
 	github.com/stretchr/testify v1.8.1
 	github.com/tmc/grpc-websocket-proxy 673ab2c3ae75
-	github.com/xiang90/probing v0.0.0-20190116061207-43a291ad63a2
+	github.com/xiang90/probing a49e3df8f510
 	go.etcd.io/bbolt v1.3.6
 	go.etcd.io/etcd/api/v3 v3.5.6
 	go.etcd.io/etcd/client/pkg/v3 v3.5.5
