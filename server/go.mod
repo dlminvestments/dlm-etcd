@@ -46,7 +46,7 @@ renovate/golang.org-x-net-digest
 main
 	golang.org/x/time 1f47c861a9ac
 	google.golang.org/genproto 3dee208752a0
-	google.golang.org/grpc v1.50.1
+	google.golang.org/grpc v1.51.0
 	google.golang.org/protobuf v1.28.1
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 	sigs.k8s.io/yaml v1.3.0
