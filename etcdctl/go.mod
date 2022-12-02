@@ -20,7 +20,7 @@ renovate/go.etcd.io-etcd-etcdutl-v3-3.x
 	go.etcd.io/etcd/etcdutl/v3 v3.5.6
 	go.etcd.io/etcd/pkg/v3 v3.5.6
 main
-	go.uber.org/zap v1.23.0
+	go.uber.org/zap v1.24.0
 	golang.org/x/time 1f47c861a9ac
 	google.golang.org/grpc v1.51.0
 	gopkg.in/cheggaaa/pb.v3 v3.1.0
