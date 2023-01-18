@@ -16,7 +16,7 @@ require (
 	github.com/go-openapi/spec v0.19.9 // indirect
 	github.com/gogo/protobuf v1.3.2
 	github.com/golang/glog v1.0.0 // indirect
-	github.com/google/addlicense v1.1.0
+	github.com/google/addlicense v1.1.1
 	github.com/google/go-cmp v0.5.6 // indirect
 	github.com/gordonklaus/ineffassign d2c82e48359b
 	github.com/gorilla/websocket v1.4.2 // indirect
