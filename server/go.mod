@@ -29,7 +29,7 @@ require (
 	go.etcd.io/etcd/client/pkg/v3 v3.5.7
 	go.etcd.io/etcd/client/v3 v3.5.7
 	go.etcd.io/etcd/client/v3 v3.5.7
-	go.etcd.io/etcd/pkg/v3 v3.5.6
+	go.etcd.io/etcd/pkg/v3 v3.5.7
 	go.etcd.io/etcd/raft/v3 v3.5.7
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.37.0
 	go.opentelemetry.io/otel v1.11.2
