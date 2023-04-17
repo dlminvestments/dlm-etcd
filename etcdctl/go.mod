@@ -11,8 +11,8 @@ require (
 	github.com/urfave/cli/v2 v2.25.1
 	go.etcd.io/etcd/api/v3 v3.5.8
 	go.etcd.io/etcd/client/pkg/v3 v3.5.7
-	go.etcd.io/etcd/client/v3 v3.5.7
-	go.etcd.io/etcd/client/v3 v3.5.7
+	go.etcd.io/etcd/client/v3 v3.5.8
+	go.etcd.io/etcd/client/v3 v3.5.8
 renovate/go.etcd.io-etcd-etcdutl-v3-3.x
 	go.etcd.io/etcd/etcdutl/v3 v3.5.7
 	go.etcd.io/etcd/pkg/v3 v3.5.7
