@@ -17,7 +17,7 @@ require (
 	github.com/jonboulle/clockwork v0.4.0
 	github.com/kr/text v0.2.0 // indirect
 	github.com/prometheus/client_golang v1.15.1
-	github.com/prometheus/client_model v0.3.0
+	github.com/prometheus/client_model v0.4.0
 	github.com/sirupsen/logrus v1.8.1 // indirect
 	github.com/soheilhy/cmux v0.1.5
 	github.com/spf13/cobra v1.7.0
