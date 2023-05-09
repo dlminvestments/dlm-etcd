@@ -31,7 +31,7 @@ require (
 	go.etcd.io/etcd/client/v3 v3.5.8
 	go.etcd.io/etcd/pkg/v3 v3.5.8
 	go.etcd.io/etcd/raft/v3 v3.5.8
-	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.41.0
+	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.41.1
 	go.opentelemetry.io/otel v1.15.1
 	go.opentelemetry.io/otel/exporters/otlp v0.20.1
 	go.opentelemetry.io/otel/sdk v1.15.1
