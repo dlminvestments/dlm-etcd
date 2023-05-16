@@ -27,8 +27,8 @@ require (
 	go.etcd.io/bbolt v1.3.7
 	go.etcd.io/etcd/api/v3 v3.5.9
 	go.etcd.io/etcd/client/pkg/v3 v3.5.8
-	go.etcd.io/etcd/client/v3 v3.5.8
-	go.etcd.io/etcd/client/v3 v3.5.8
+	go.etcd.io/etcd/client/v3 v3.5.9
+	go.etcd.io/etcd/client/v3 v3.5.9
 	go.etcd.io/etcd/pkg/v3 v3.5.8
 	go.etcd.io/etcd/raft/v3 v3.5.8
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.41.1
