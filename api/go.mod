@@ -9,7 +9,7 @@ require (
 	github.com/google/go-cmp v0.5.6 // indirect
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
 	google.golang.org/genproto$22b146023228c
-	google.golang.org/grpc v1.55.0
+	google.golang.org/grpc v1.56.0
 )
 
 // Bad imports are sometimes causing attempts to pull that code.
