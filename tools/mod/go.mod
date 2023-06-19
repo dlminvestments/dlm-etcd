@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/akhenakh/hunspellgo v0.0.0-20160221122622-9db38fa26e19 // indirect
-	github.com/alexkohler/nakedret/v2 v2.0.1
+	github.com/alexkohler/nakedret/v2 v2.0.2
 	github.com/bketelsen/crypt v0.0.3-0.20200106085610-5cbc8cc4026c // indirect
 	github.com/chzchzchz/goword v0.0.0-20170907005317-a9744cb52b03
 	github.com/coreos/bbolt v1.3.2 // indirect
