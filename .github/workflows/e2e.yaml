@@ -10,7 +10,7 @@ jobs:
         - linux-amd64-e2e
         - linux-386-e2e
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - uses: actions/setup-go@v4
       with:
         go-version: "1.16.3"
