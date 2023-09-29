@@ -45,7 +45,7 @@ main
 	gopkg.in/resty.v1 v1.12.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
 	gotest.tools v2.2.0+incompatible
-	gotest.tools/gotestsum v1.10.1
+	gotest.tools/gotestsum v1.11.0
 	honnef.co/go/tools v0.4.6
 	mvdan.cc/unparam 06cc5682983b
 )
