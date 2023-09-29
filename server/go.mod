@@ -36,7 +36,7 @@ require (
 	go.opentelemetry.io/otel/exporters/otlp v0.20.1
 	go.opentelemetry.io/otel/sdk v1.16.0
 	go.uber.org/multierr v1.11.0
-	go.uber.org/zap v1.25.0
+	go.uber.org/zap v1.26.0
 renovate/golang.org-x-net-digest
 	golang.org/x/crypto ceb1ce70b4fa
 	golang.org/x/net 3ad01bbaa167
