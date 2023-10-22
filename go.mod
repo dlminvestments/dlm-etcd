@@ -36,7 +36,7 @@ main
 	go.etcd.io/etcd/raft/v3 v3.5.9
 	go.etcd.io/etcd/server/v3 v3.5.9
 	go.etcd.io/etcd/tests/v3 v3.5.9
-	go.uber.org/zap v1.25.0
+	go.uber.org/zap v1.26.0
 	golang.org/x/time 1f47c861a9ac
 	google.golang.org/grpc v1.58.2
 	gopkg.in/cheggaaa/pb.v3 v3.1.4
