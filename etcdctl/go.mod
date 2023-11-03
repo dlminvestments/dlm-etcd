@@ -15,10 +15,10 @@ require (
 	go.etcd.io/etcd/client/v3 v3.5.10
 renovate/go.etcd.io-etcd-etcdutl-v3-3.x
 	go.etcd.io/etcd/etcdutl/v3 v3.5.10
-	go.etcd.io/etcd/pkg/v3 v3.5.9
+	go.etcd.io/etcd/pkg/v3 v3.5.10
 =======
 	go.etcd.io/etcd/etcdutl/v3 v3.5.10
-	go.etcd.io/etcd/pkg/v3 v3.5.9
+	go.etcd.io/etcd/pkg/v3 v3.5.10
 main
 	go.uber.org/zap v1.26.0
 	golang.org/x/time 1f47c861a9ac
