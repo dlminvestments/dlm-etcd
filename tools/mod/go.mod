@@ -27,10 +27,10 @@ require (
 	github.com/hexfusion/schwag v0.0.0-20211117114134-3ceb0191ccbf
 	github.com/mdempsky/unconvert 3f84926d6923
 renovate/github.com-mgechev-revive-1.x
-	github.com/mgechev/revive v1.3.4
+	github.com/mgechev/revive v1.3.6
 	github.com/mikefarah/yq/v4 v4.40.5
 =======
-	github.com/mgechev/revive v1.3.4
+	github.com/mgechev/revive v1.3.6
 	github.com/mikefarah/yq/v4 v4.40.5
 main
 	github.com/prometheus/tsdb v0.7.1 // indirect
