@@ -27,7 +27,7 @@ require (
 	github.com/spf13/cobra v1.8.0
 	go.etcd.io/bbolt v1.3.8
 	go.etcd.io/etcd/api/v3 v3.5.12
-	go.etcd.io/etcd/client/pkg/v3 v3.5.11
+	go.etcd.io/etcd/client/pkg/v3 v3.5.12
 	go.etcd.io/etcd/client/v3 v3.5.12
 	go.etcd.io/etcd/pkg/v3 v3.5.11
 	go.etcd.io/etcd/raft/v3 v3.5.11
