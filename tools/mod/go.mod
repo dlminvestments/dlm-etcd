@@ -46,6 +46,6 @@ main
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
 	gotest.tools v2.2.0+incompatible
 	gotest.tools/gotestsum v1.11.0
-	honnef.co/go/tools v0.4.6
+	honnef.co/go/tools v0.4.7
 	mvdan.cc/unparam 06cc5682983b
 )
