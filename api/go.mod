@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/coreos/go-semver v0.3.1
 	github.com/gogo/protobuf v1.3.2
-	github.com/golang/protobuf v1.5.3
+	github.com/golang/protobuf v1.5.4
 	github.com/google/go-cmp v0.5.6 // indirect
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.19.1
 	google.golang.org/genproto$22b146023228c
