@@ -14,10 +14,10 @@ require (
 	go.etcd.io/etcd/client/v3 v3.5.13
 	go.etcd.io/etcd/client/v3 v3.5.13
 renovate/go.etcd.io-etcd-etcdutl-v3-3.x
-	go.etcd.io/etcd/etcdutl/v3 v3.5.12
+	go.etcd.io/etcd/etcdutl/v3 v3.5.13
 	go.etcd.io/etcd/pkg/v3 v3.5.12
 =======
-	go.etcd.io/etcd/etcdutl/v3 v3.5.12
+	go.etcd.io/etcd/etcdutl/v3 v3.5.13
 	go.etcd.io/etcd/pkg/v3 v3.5.12
 main
 	go.uber.org/zap v1.27.0
