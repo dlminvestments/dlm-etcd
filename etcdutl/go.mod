@@ -29,7 +29,7 @@ require (
 	go.etcd.io/etcd/api/v3 v3.5.13
 	go.etcd.io/etcd/client/pkg/v3 v3.5.13
 	go.etcd.io/etcd/client/v3 v3.5.13
-	go.etcd.io/etcd/pkg/v3 v3.5.12
+	go.etcd.io/etcd/pkg/v3 v3.5.13
 	go.etcd.io/etcd/raft/v3 v3.5.13
 	go.etcd.io/etcd/server/v3 v3.5.12
 	go.uber.org/zap v1.27.0
