@@ -38,6 +38,6 @@ main
 	go.etcd.io/etcd/tests/v3 v3.5.13
 	go.uber.org/zap v1.27.0
 	golang.org/x/time 1f47c861a9ac
-	google.golang.org/grpc v1.63.0
+	google.golang.org/grpc v1.63.2
 	gopkg.in/cheggaaa/pb.v3 v3.1.5
 )
