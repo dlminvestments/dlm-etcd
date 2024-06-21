@@ -27,11 +27,11 @@ require (
 renovate/go.etcd.io-etcd-etcdutl-v3-3.x
 	go.etcd.io/etcd/etcdctl/v3 v3.5.14
 	go.etcd.io/etcd/etcdutl/v3 v3.5.14
-	go.etcd.io/etcd/pkg/v3 v3.5.13
+	go.etcd.io/etcd/pkg/v3 v3.5.14
 =======
 	go.etcd.io/etcd/etcdctl/v3 v3.5.14
 	go.etcd.io/etcd/etcdutl/v3 v3.5.14
-	go.etcd.io/etcd/pkg/v3 v3.5.13
+	go.etcd.io/etcd/pkg/v3 v3.5.14
 main
 	go.etcd.io/etcd/raft/v3 v3.5.14
 	go.etcd.io/etcd/server/v3 v3.5.14
