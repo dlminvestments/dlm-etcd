@@ -3,7 +3,7 @@ module go.etcd.io/etcd/etcdctl/v3
 go 1.19
 
 require (
-	github.com/bgentry/speakeasy v0.1.0
+	github.com/bgentry/speakeasy v0.2.0
 	github.com/dustin/go-humanize v1.0.1
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/spf13/cobra v1.8.1
