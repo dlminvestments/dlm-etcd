@@ -33,7 +33,7 @@ renovate/go.etcd.io-etcd-etcdutl-v3-3.x
 	go.etcd.io/etcd/etcdutl/v3 v3.5.14
 	go.etcd.io/etcd/pkg/v3 v3.5.14
 main
-	go.etcd.io/etcd/raft/v3 v3.5.14
+	go.etcd.io/etcd/raft/v3 v3.5.16
 	go.etcd.io/etcd/server/v3 v3.5.15
 	go.etcd.io/etcd/tests/v3 v3.5.14
 	go.uber.org/zap v1.27.0
