@@ -8,7 +8,7 @@ require (
 	github.com/dustin/go-humanize v1.0.1
 	github.com/gogo/protobuf v1.3.2
 	github.com/golang-jwt/jwt/v5 v5.2.1
-	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
+	github.com/golang/groupcache 2c02b8208cf8
 	github.com/golang/protobuf v1.5.4
 	github.com/google/btree v1.1.2
 	github.com/grpc-ecosystem/go-grpc-middleware/v2 v2.1.0
